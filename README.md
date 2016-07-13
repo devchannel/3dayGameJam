@@ -1,4 +1,4 @@
-# 3dayGameJam
+# DevJam
 
 This repo is for submissions for DevChannel's 3-day game jam. These three days will be divided in one day for preparation and two days for the making of the game.
 
